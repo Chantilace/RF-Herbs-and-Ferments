@@ -1,0 +1,90 @@
+/*top bar*/
+.top-bar{
+    background-color: black;
+}
+fab{
+    color: white;
+}
+li{
+    list-style: none;
+    margin: 5px 0 0 5px;
+    display: inline-flex;
+    padding: 10px 10px  0 0;
+    color: white;
+}
+ul{
+    padding-left: -30px;
+}
+h6{
+    font-size: 14px;
+    padding-right: 20px; 
+}
+/*NAV bar*/
+nav{
+    background-color: white;
+}
+.navbar-nav .navbar-expand-lg .navbar-light .bg-light {
+    background-color:white;
+    font-size: 12px;
+    height: 30px;
+    padding: 0 50px 15px 50px;
+}
+.navbar{
+    background-color: white;
+    padding: 10px 0 0 50px;
+}
+.navbar-toggler {
+    margin: 0 0 10px 10px;
+
+}
+.navbar-text{
+    text-align: center;
+}
+.nav-item{
+    font-size: 14px;
+    padding: 0 0 0 30px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+.navbar-brand{
+    font-size: 14px;
+    padding-left: 20px;
+}
+.navbar-nav{
+    padding-right: 50px;
+}
+/*webcards*/
+.card{
+    margin: 20 0 0 0;
+}
+/* Bg Color(s)*/
+#bg-color1{
+    background-color: white;
+    height: 300px;
+}
+#bg-color2{
+    background-color: #76ab58;
+}
+#bg-color3{
+    background-color: black;
+}
+
+.heightcontainer{
+    height: 650px;
+}
+
+
+
+/* extension of search field*/
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 100%;
+}
+/*CONTACT POSITION TOP BAR*/
+

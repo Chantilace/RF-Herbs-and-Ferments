@@ -1,0 +1,75 @@
+/*
+.body{
+    height: 3000px;
+    background: white;
+
+}
+
+/* Collapsing Navbar Styles */
+
+
+/*popup search field*/
+/* Popup container */
+
+
+
+/*
+.logo {
+    background-color: $color1;
+    border-radius: 10px;
+    display: inline-block;
+    height: 10px;
+    margin: 1em 0;
+    width: 10px;
+  }
+/*BOOTSTRAP NAVIGATION---------navbar remove toggle arrow*/
+/*
+.dropdown-menu .dropdown-item{
+    border:0;
+    font-size: 12px;
+}
+.nav-link{
+    font-size: 12px;
+    color: black;
+}
+.nav-item{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.input-group{
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+
+/*search button
+#custom-search-input{
+    padding: 3px;
+    border: none;
+    background-color:none;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+    background-color:#ead38d;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 12px;
+}
