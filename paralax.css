@@ -24,27 +24,32 @@ line-height: 100px;
 }
 /* Image for Parallax Section */ 
 .paralsec {
-background-image: src("C:\Users\Chantale\Desktop\RF Project 3\img\table-2559952_1920.jpg");
+background-image: url("https://user-images.githubusercontent.com/32280473/43679489-b9617f7c-97da-11e8-86af-45d2135832ec.jpg");
 }
     
 .paralsec1 {
-background-image: url("https://cdn.pixabay.com/photo/2015/09/03/18/04/drip-921067_960_720.jpg");
+background-image: url("https://user-images.githubusercontent.com/32280473/43679589-3f1170b8-97dc-11e8-879c-46d7408324b0.jpg");
 }
 
     
 .paralsec2 {
-background-image: url("https://cdn.pixabay.com/photo/2012/03/04/00/17/abstract-21851_960_720.jpg");
+background-image: url("https://user-images.githubusercontent.com/32280473/43679584-12933170-97dc-11e8-882c-9752628cf31e.jpg");
 }
 .paralsec3 {
-    background-image: url("https://cdn.pixabay.com/photo/2015/09/03/18/04/drip-921067_960_720.jpg");
+    background-image: url("https://user-images.githubusercontent.com/32280473/43679605-5dd1577a-97dc-11e8-8c04-256ea5505aab.jpg");
 }
 
 /* Remove Bottom Margin from Jumbotron */
 .jumbotron{
     margin-bottom: 0;
     border-radius: 0;
-    background-color: white;
+    background-color: #2e2e2e;
 }
+.logo{
+    background-image: url("https://user-images.githubusercontent.com/32280473/43681817-929bb7d8-9814-11e8-9802-db52b488a20d.png");
+
+}
+
 
 /* Footer */
 .wn-footer {
@@ -52,16 +57,11 @@ width: 100%;
 padding: 2.5rem 0;
 text-align: center;
 color: white;
-background-color: #6c757d;
+background-color: #fafafa;
 border-top: .05rem solid #e5e5e5;
 }
  
 .wn-footer a {
-color: yellow;
+color: #2e2e2e;
 }
 /*call to action form*/
-
-/*logo*/
-.logo{
-    background-image: 50%;
-}
