@@ -1,3 +1,19 @@
+#bg-color1 {
+    background-color: white;
+    height: 350px;
+}
+#bg-color2{
+    background-color:white;
+    height: 600px;
+}
+#bg-color3{
+    background-color: black;
+}
+.heightcontainer{
+    min-height: 700px;
+    background-color: #fafafa;
+}
+
 /*top bar*/
 .top-bar{
     background-color: black;
@@ -19,77 +35,8 @@ h6{
     font-size: 14px;
     padding-right: 20px; 
 }
-/*NAV bar*/
-nav{
-    background-color: white;
-}
-.navbar-nav .navbar-expand-lg .navbar-light .bg-light {
-    background-color:white;
-    font-size: 12px;
-    height: 30px;
-    padding: 0 50px 15px 50px;
-}
-.navbar{
-    background-color: white;
-    padding: 10px 0 0 50px;
-}
-.navbar-toggler {
-    margin: 0 0 10px 10px;
-
-}
-.navbar-text{
-    text-align: center;
-}
-.nav-item{
-    font-size: 20px;
-    padding: 0 0 0 30px;
-    font-family: 'Pathway Gothic One', sans-serif;
-}
-.navbar-brand{
-    font-size: 14px;
-    padding-left: 20px;
-}
-.navbar-nav{
-    padding-right: 50px;
-}
-/*webcards*/
-.card{
-    margin: 20 0 0 0;
-}
-/* Bg Color(s)*/
-#bg-color1{
-    background-color: white;
-    height: 350px;
-}
-#bg-color2{
-    background-color: #76ab58;
-}
-#bg-color3{
-    background-color: black;
-}
-
-.heightcontainer{
-    height: 700px;
-    background-color: #fafafa;
-}
-/*form*/
 #form-position{
     margin: 15px 0 0 0 ;
-}
-
-/* BOXES for TEXT*/
-.boxed1{
-    width: 800px;
-    height: 400px;
-    border: none;
-    background-color: #fafafa;
-    margin: 25px;
-    font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 30px;
-    text-align: center;
-    padding: 70px 70px 70px 70px;
-    display: inline-block;
-    
 }
 .boxed2{
     width: 600px;
@@ -108,7 +55,21 @@ nav{
 .seals{
     display: inline-block;
     margin-top: 40px;
+    position: relative;
+    max-width: 100%;
 }
+.treeoflife{
+    max-width: 25%;
+    opacity: 0.85;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+
+
+
+
+/* Bg Color(s)*/
 
 
 

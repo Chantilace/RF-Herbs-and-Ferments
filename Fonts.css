@@ -5,19 +5,41 @@
     text-align: center !important;
     line-height: 1.25;
 }
+#h6{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 16px;
+
+}
 #h5{
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 30px;
+    font-size: 35px;
     color: #2e2e2e;
-    padding: 30px 0 0 54px;
+    font-size:2vw;
+    text-align: center;
+    padding: 70px 70px 30px 70px;
+    display: inline-block;
 }
-p{
+.p {
     color: #2e2e2e;
    
 }
 #p1{
+    color: #2e2e2e;
+    font-size: 1.5vw;
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-align: center !important;
+    padding: 20px 0 0 0;
+    display: inline-block;
+}
+#p2{
     color: #fafafa;
     font-size: 40px;
     font-family: 'Pathway Gothic One', sans-serif;
     text-align: center !important;
+ 
+    display: inline-block;
+}
+.navbar-brand{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
 }
