@@ -40,6 +40,7 @@ h6{
 }
 .boxed2{
     width: 600px;
+    position: relative;
     height: 150px;
     border: none;
     background-color:#536B3D;
@@ -51,6 +52,10 @@ h6{
     color: #fafafa;
     padding: 50px 50px 50px 30px;
     display: inline-block;
+}
+
+.position{
+    position: absolute:
 }
 .seals{
     display: inline-block;
