@@ -1,7 +1,7 @@
 /* Header Parallax Element Style*/ 
 
 .paral {
-min-height: 400px;
+min-height: 300px;
 background-attachment: fixed;
 background-size: cover;
 background-position: 50% 50%;
@@ -53,11 +53,20 @@ background-image: url("https://user-images.githubusercontent.com/32280473/436795
 /*ABOUT ME SECTION*/
 #about{
   max-width: 100%;
+  min-height: 550px;
   height: auto;
   padding: 50px 0 50px 50px;
 
 }
 /* Footer */
+.footerimage{
+min-height: 600px;
+background-attachment: fixed;
+background-size: cover;
+background-position: 50% 50%;
+background-image:url("https://user-images.githubusercontent.com/32280473/43679556-9a3b90dc-97db-11e8-8039-8f8cfa80a16a.jpg");
+
+}
 .wn-footer {
 width: 100%;
 padding: 2.5rem 0;

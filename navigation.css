@@ -17,6 +17,16 @@
 {
 	display:block;
 	color:#2e2e2e;
+	text-decoration:bold;
+	font-weight:100;
+	font-size:18px;
+	line-height:32px;
+	padding:0 15px;
+	font-family:'Pathway Gothic One', sans-serif;
+}
+#primary_nav_wrap ul a:hover{
+	display:block;
+	color:#2e2e2e;
 	text-decoration:none;
 	font-weight:100;
 	font-size:18px;
@@ -24,7 +34,6 @@
 	padding:0 15px;
 	font-family:'Pathway Gothic One', sans-serif;
 }
-
 #primary_nav_wrap ul li
 {
 	position:relative;
@@ -35,12 +44,13 @@
 
 #primary_nav_wrap ul li.current-menu-item
 {
-	background:#fafafa
+	background:#fafafa;
+
 }
 
 #primary_nav_wrap ul li:hover
 {
-	background:#fafafa
+	background:#95B159;
 }
 
 #primary_nav_wrap ul ul
