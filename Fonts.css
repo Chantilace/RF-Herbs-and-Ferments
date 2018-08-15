@@ -12,18 +12,19 @@
 }
 #h5{
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 35px;
     color: #2e2e2e;
-    font-size:2vw;
+
     text-align: center;
-    padding: 70px 70px 30px 70px;
+    padding: 30px 30px 30px 30px;
     display: inline-block;
 }
 #h4{
     font-family: 'Dancing Script', cursive;
     font-size:40px;
     text-align: center;
-    padding: 80px 100px 0px 100px;
+    padding: 50px 100px 0px 70px;
+    height: 300vh;
+    max-height: 300px;
 
 }
 #h3{
@@ -39,40 +40,42 @@
 }
 #p1{
     color: #2e2e2e;
-    font-size: 1.5vw;
+    margin: 50px 0 50px 0;
     font-family: 'Pathway Gothic One', sans-serif;
     text-align: center !important;
     padding: 20px 0 0 0;
     display: inline-block;
+   
 }
 #p2{
     color: #fafafa;
-    font-size: 40px;
+ 
     font-family: 'Pathway Gothic One', sans-serif;
     text-align: center !important;
- 
+    padding: 15px 0 20px 0;
     display: inline-block;
 }
 .navbar-brand{
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 20px;
 }
+.card-title{
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.fontSizeXXSmallScaled { font-size:calc(.8em + 1vw); }
+.fontSizeXSmallScaled { font-size:calc(.8em + 1.2vw); }
+.fontSizeSmallScaled { font-size:calc(.9em + 1.4vw); }
+.fontSizeMediumScaled { font-size:calc(1em + 1.5vw); }
+.fontSizeLargeScaled {
+     font-size:calc(1.25em + 1.6vw); 
+}
+.fontSizeXLargeScaled { font-size:calc(1.5em + 1.7vw); }
+.fontSizeXXLargeScaled { font-size:calc(1.75em + 1.8vw); }
+
+
+
+
 
  /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
- @media screen and (min-width: 601px) {
-    div.example {
-      font-size: 80px;
-    }
-  }
-  
-  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-  @media screen and (max-width: 600px) {
-    div.example {
-      font-size: 60px;
-    }
-  }
-  @media screen and (max-width: 450px) {
-    div.example {
-      font-size: 60px;
-    }
-  }
+ 
