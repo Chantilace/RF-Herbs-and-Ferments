@@ -1,6 +1,6 @@
 #h7{
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 30px;
+
     color: #2e2e2e;
     text-align: center !important;
     line-height: 1.25;
@@ -13,25 +13,34 @@
 #h5{
     font-family: 'Pathway Gothic One', sans-serif;
     color: #2e2e2e;
-
+    margin-bottom: -8px;
+    text-align: center;
+    padding: 40px 30px 30px 30px;
+    display: inline-block;
+}
+#h5b{
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #2e2e2e;
+    margin-bottom: 20px;
     text-align: center;
     padding: 30px 30px 30px 30px;
     display: inline-block;
 }
 #h4{
     font-family: 'Dancing Script', cursive;
-    font-size:40px;
     text-align: center;
-    padding: 50px 100px 0px 70px;
-    height: 300vh;
-    max-height: 300px;
+    position: relative;
+    padding: 80px 0 0 0;
+    height: 200vh;
+    max-height: 200px;
 
 }
 #h3{
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 20px;
+    background-color: rgb(234,211,141, .4)
+   
     color: #2e2e2e;
-    text-align: center !important;
+    text-align: left !important;
     line-height: 1.25;
 }
 .p {
@@ -62,7 +71,7 @@
 .card-title{
     font-family: 'Pathway Gothic One', sans-serif;
 }
-
+.fontsizeXXXsmallScaled { font-size:calc(.9em + 1vw); }
 .fontSizeXXSmallScaled { font-size:calc(.8em + 1vw); }
 .fontSizeXSmallScaled { font-size:calc(.8em + 1.2vw); }
 .fontSizeSmallScaled { font-size:calc(.9em + 1.4vw); }
