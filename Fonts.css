@@ -1,9 +1,26 @@
-#h7{
+#h1{
     font-family: 'Pathway Gothic One', sans-serif;
+    color: #536B3D;
+    text-align: center !important;
+    line-height: 1.25;
+}
+#h2{
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #2e2e2e;
+    text-align: left !important;
+    line-height: 1.25;
 
+}
+#h2a{
+    font-family: 'Pathway Gothic One', sans-serif;
     color: #2e2e2e;
     text-align: center !important;
     line-height: 1.25;
+}
+#h4a{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 25px;
+
 }
 #h6{
     font-family: 'Pathway Gothic One', sans-serif;
@@ -13,9 +30,9 @@
 #h5{
     font-family: 'Pathway Gothic One', sans-serif;
     color: #2e2e2e;
-    margin-bottom: -8px;
+    margin-bottom: -20px;
     text-align: center;
-    padding: 40px 30px 30px 30px;
+    padding: 80px 30px 30px 30px;
     display: inline-block;
 }
 #h5b{
@@ -66,7 +83,7 @@
 }
 .navbar-brand{
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
 }
 .card-title{
     font-family: 'Pathway Gothic One', sans-serif;

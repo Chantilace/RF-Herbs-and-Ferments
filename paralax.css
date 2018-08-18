@@ -8,12 +8,12 @@ background-size: cover;
 background-position: 50% 50%;
 }
 .paral2 {
-    height: 150vh;
-    max-height: 150px;
+    height: 300vh;
+    max-height: 300px;
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 50%;
-    }
+}
 /* Paragraph for Parallax Section */ 
 .paral p {
 font-size: 24px;
@@ -36,7 +36,7 @@ background-image: url("https://user-images.githubusercontent.com/32280473/436794
 }
     
 .paralsec1 {
-background-image: url("https://user-images.githubusercontent.com/32280473/43679589-3f1170b8-97dc-11e8-879c-46d7408324b0.jpg");
+background-image: url("https://user-images.githubusercontent.com/32280473/44295358-1a7eab00-a25c-11e8-9dc6-085f57db6552.png");
 }
 
     
@@ -65,19 +65,18 @@ background-image: url("https://user-images.githubusercontent.com/32280473/436795
 /*ABOUT ME SECTION*/
 #about{
   max-width: 100%;
-  min-height: 550px;
+  min-height: 300px;
   height: auto;
   padding: 50px 0 50px 50px;
 
 }
 /* Footer */
 .footerimage{
-min-height: 600px;
+min-height: 400px;
 background-attachment: fixed;
 background-size: cover;
 background-position: 50% 50%;
-background-image:url("https://user-images.githubusercontent.com/32280473/43679556-9a3b90dc-97db-11e8-8039-8f8cfa80a16a.jpg");
-
+background-image:url("https://user-images.githubusercontent.com/32280473/44295572-5a479180-a260-11e8-8322-920a0250e363.jpg");
 }
 .wn-footer {
 width: 100%;
